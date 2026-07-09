@@ -22,7 +22,7 @@ I am currently learning Data Annotation with a focus on:
 
 ## Learning Progress
 
-- [ ] Project 1 - Vehicle Detection
+- [ ] Project 1 - Vehicle Detection  project-1/README.md
 - [ ] Project 2 - Human Detection
 - [ ] Project 3 - Text Annotation
 - [ ] Project 4 - Named Entity Recognition
