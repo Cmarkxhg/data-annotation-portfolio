@@ -22,4 +22,4 @@ Learn how to annotate vehicles using Bounding Box.
 
 ## Status
 
-🚧 In Progress
+Learning
