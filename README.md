@@ -32,3 +32,7 @@ Images Annotated : 500
 Objects Annotated : 2,350
 
 ## Sample Annotation
+
+### Vehicle Detection
+<img width="642" height="614" alt="image" src="https://github.com/user-attachments/assets/c6c2a77d-ac26-412e-a3b5-475c93015e67" />
+
