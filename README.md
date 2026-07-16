@@ -10,6 +10,7 @@ I am currently a Data Annotator with a focus on:
 
 - Image Annotation
 - Text Annotation
+- Video Annotation
 - Quality Assurance (QA)
 - Computer Vision
 - Natural Language Processing
