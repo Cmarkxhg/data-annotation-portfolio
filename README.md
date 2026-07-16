@@ -1,12 +1,12 @@
 # Data Annotation Portfolio
 
-Welcome to my Data Annotation learning portfolio.
+Hello! Welcome to my Data Annotation learning portfolio.
 
 ## About Me
 
 Hi, I'm Juhdan.
 
-I am currently learning Data Annotation with a focus on:
+I am currently a Data Annotator with a focus on:
 
 - Image Annotation
 - Text Annotation
@@ -16,16 +16,18 @@ I am currently learning Data Annotation with a focus on:
 
 ## Tools
 
+- Github
 - CVAT
+- Roboflow
 - Label Studio
-- GitHub
+- Instance Segmentation
+- Object Detection
 
-## Learning Progress
 
-- [ ] Project 1 - Vehicle Detection  project-1/README.md
-- [ ] Project 2 - Human Detection
-- [ ] Project 3 - Text Annotation
-- [ ] Project 4 - Named Entity Recognition
-- [ ] Project 5 - Quality Assurance
+## Dataset Statistics
 
-Thank you for visiting my portfolio.
+Images Annotated : 500
+
+Objects Annotated : 2,350
+
+## Sample Annotation
