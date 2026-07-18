@@ -1,6 +1,6 @@
 # Data Annotation Portfolio
 
-Hello! Welcome to my Data Annotation learning portfolio.
+Hello! Welcome to my Data Annotation portfolio.
 
 ## About Me
 
